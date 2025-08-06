@@ -1,0 +1,10 @@
+C:\Users\palla\source\repos\StudentManagmentSystem\StudentManagmentSystem\obj\Debug\StudentManagmentSystem.csproj.AssemblyReference.cache
+C:\Users\palla\source\repos\StudentManagmentSystem\StudentManagmentSystem\obj\Debug\StudentManagmentSystem.Form1.resources
+C:\Users\palla\source\repos\StudentManagmentSystem\StudentManagmentSystem\obj\Debug\StudentManagmentSystem.Properties.Resources.resources
+C:\Users\palla\source\repos\StudentManagmentSystem\StudentManagmentSystem\obj\Debug\StudentManagmentSystem.csproj.GenerateResource.cache
+C:\Users\palla\source\repos\StudentManagmentSystem\StudentManagmentSystem\obj\Debug\StudentManagmentSystem.csproj.CoreCompileInputs.cache
+C:\Users\palla\source\repos\StudentManagmentSystem\StudentManagmentSystem\bin\Debug\StudentManagmentSystem.exe.config
+C:\Users\palla\source\repos\StudentManagmentSystem\StudentManagmentSystem\bin\Debug\StudentManagmentSystem.exe
+C:\Users\palla\source\repos\StudentManagmentSystem\StudentManagmentSystem\bin\Debug\StudentManagmentSystem.pdb
+C:\Users\palla\source\repos\StudentManagmentSystem\StudentManagmentSystem\obj\Debug\StudentManagmentSystem.exe
+C:\Users\palla\source\repos\StudentManagmentSystem\StudentManagmentSystem\obj\Debug\StudentManagmentSystem.pdb
